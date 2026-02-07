@@ -1,0 +1,14 @@
+Local Network Security Assessment Report
+Target: 127.0.0.1 (localhost)
+
+PORT     STATE SERVICE     VERSION
+22/tcp   open  ssh         OpenSSH
+80/tcp   open  http        Apache httpd
+
+Scan Summary:
+The scan identified open services running on the local system.
+These services may be required for normal operation but should be
+secured and monitored to reduce security risks.
+
+Note:
+This scan was performed on localhost for educational purposes only.
